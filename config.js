@@ -2,14 +2,14 @@ require("./database/module")
 
 //GLOBAL PAYMENT
 global.storename = "𝐙𝐲𝐧𝐓𝐳𝐲"
-global.dana = "923052199342"
+global.dana = "923375987957"
 global.qris = "https://a.top4top.io/p_319465f4i0.jpeg"
 
 
 // GLOBAL SETTING
-global.owner = "923052199342"
+global.owner = "923375987957"
 global.namabot = "𝐙𝐲𝐧𝐱𝐳𝐨"
-global.nomorbot = "923052199342"
+global.nomorbot = "923375987957"
 global.namaCreator = "𝐙𝐲𝐧𝐓𝐳𝐲"
 global.linkyt = "https://youtube.com/@khosa-bh"
 global.autoJoin = false
